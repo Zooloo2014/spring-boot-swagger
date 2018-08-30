@@ -1,4 +1,4 @@
-package com.example.springbootswagger;
+package com.example.springbootswagger.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
